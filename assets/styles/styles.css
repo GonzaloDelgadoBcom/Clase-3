@@ -1,0 +1,52 @@
+#ele1 {
+    width: 200px;
+    height: 100px;
+    background-color: blue;
+    margin: 20px;
+    cursor: pointer;
+}
+
+#contenedor {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 20px;
+}
+
+.divColor {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border: 1px solid black;
+    cursor: pointer;
+    text-align: center;
+    line-height: 200px;
+    font-size: 20px;
+}
+
+.divAzul {
+    background-color: blue;
+}
+
+.divRojo {
+    background-color: red;
+}
+
+.divVerde {
+    background-color: green;
+}
+
+.divAmarillo {
+    background-color: yellow;
+}
+
+#key {
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border: 1px solid black;
+    margin: 20px auto;
+    text-align: center;
+    line-height: 200px;
+    font-size: 20px;
+}
